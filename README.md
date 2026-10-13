@@ -4,7 +4,7 @@
 【インストール方法】
 
 1.本サイトの「Releases」から1番バージョンの数字が高い
-  OW-Companion-Desktop-v.〇〇をインストール
+  OW-Companion-Desktopファイルをインストール
 
 2.インストールしたらファイルをかっこ「全て展開」をする。
 
